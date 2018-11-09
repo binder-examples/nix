@@ -1,6 +1,6 @@
 # [Nixpkgs](https://github.com/nixos/nixpkgs) BinderHub example
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/costrouc/nix-binder-example-simple/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/nix/master)
 
 # Why Nix?
 
